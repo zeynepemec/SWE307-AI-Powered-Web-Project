@@ -1,5 +1,3 @@
-This project is an AI-powered web ecosystem designed to analyze infant vocalizations and provide actionable insights for caregivers, developed as part of the FET312 Deep Learning course at Istanbul Topkapı University
-
 
 👶 BabyVoice: AI-Powered Digital Health & Web Ecosystem
 Bu proje, İstanbul Topkapı Üniversitesi bünyesinde SWE307 Web Tasarımı ve Programlama dersi kapsamında, yapay zekanın dijital platformlarla entegrasyonunu ve modern web teknolojilerinin sağlık alanındaki uygulamalarını keşfetmek amacıyla geliştirilmiştir.
