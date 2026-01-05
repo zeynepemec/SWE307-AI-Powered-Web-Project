@@ -1,4 +1,6 @@
 This project is an AI-powered web ecosystem designed to analyze infant vocalizations and provide actionable insights for caregivers, developed as part of the FET312 Deep Learning course at Istanbul Topkapı University
+
+
 👶 BabyVoice: Yapay Zeka Destekli Bebek Bakım ve Analiz Platformu
 Bu proje, İstanbul Topkapı Üniversitesi bünyesinde SWE307 Web Tasarımı ve Programlama dersi kapsamında geliştirilen, bebek bakım sürecini dijitalleştiren ve yapay zeka ile optimize eden kapsamlı bir web ekosistemidir.
 
