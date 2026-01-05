@@ -1,24 +1,10 @@
 This project is an AI-powered web ecosystem designed to analyze infant vocalizations and provide actionable insights for caregivers, developed as part of the FET312 Deep Learning course at Istanbul Topkapı University
 
 
-👶 BabyVoice: Yapay Zeka Destekli Bebek Bakım ve Analiz Platformu
-Bu proje, İstanbul Topkapı Üniversitesi bünyesinde SWE307 Web Tasarımı ve Programlama dersi kapsamında geliştirilen, bebek bakım sürecini dijitalleştiren ve yapay zeka ile optimize eden kapsamlı bir web ekosistemidir.
+👶 BabyVoice: AI-Powered Digital Health & Web Ecosystem
+Bu proje, İstanbul Topkapı Üniversitesi bünyesinde SWE307 Web Tasarımı ve Programlama dersi kapsamında, yapay zekanın dijital platformlarla entegrasyonunu ve modern web teknolojilerinin sağlık alanındaki uygulamalarını keşfetmek amacıyla geliştirilmiştir.
 
-Projenin temel vizyonu, ebeveynlerin bebek bakım sürecini bilimsel ve veri odaklı bir yönetimle kolaylaştırmaktır. Bebeklerin tek iletişim yolu olan ağlama seslerini teknolojiyle anlamlandırarak şu hedeflere odaklanıyor:
+🚀 Vizyon
+Bebeklik dönemi, iletişimin en kısıtlı ama en kritik olduğu evredir. BabyVoice vizyonu; ebeveynlerin en büyük bilinmezi olan bebek ağlamalarını dijital bir veriye dönüştürerek, teknoloji ile ebeveynlik arasında güvenli bir köprü kurmaktır.
 
-Veri Odaklı Yönetim: Ebeveynlerin karar verme süreçlerini bilimsel verilerle hızlandırmak.
-
-Stres Yönetimi: Bebeklerin fiziksel durumlarına dair nesnel çıktılar sunarak ebeveynlerin stres seviyelerini minimize etmek.
-
-Dijital Dönüşüm: Geleneksel bakım yöntemlerini yapay zeka desteğiyle modern bir asistan sistemine dönüştürmek.
-
-🛠️ Proje Kapsamı ve Modüller
-BabyVoice, sadece bir analiz aracı değil, bütüncül bir bebek bakım asistanı olarak şu modülleri içerir:
-
-Yapay Zeka Destekli Ses Analizi: Cihaz mikrofonundan canlı ses girişi veya dosya yükleme yöntemiyle bebek ağlamalarını analiz eden sistemin merkezidir.
-
-Dinamik Aşı Takvimi: Bebeğin doğum tarihine göre periyodik aşılanma süreçlerini otomatik takip eden ve bilgilendiren akıllı takvim yapısıdır.
-
-Beslenme Takibi Sistemi: Günlük öğün miktarlarının ve zamanlamalarının kayıt altına alınabildiği dijital veri giriş alanıdır.
-
-Uzman Bilgi Bankası: Pediatrik veriler ışığında hazırlanan, ebeveynlerin doğru bilgiye hızla ulaşmasını sağlayan bilimsel içerik panelidir.
+Bu çalışma kapsamında; yapay zeka analizleri, dinamik aşı takvimleri ve beslenme takibi gibi kritik modüller kullanıcı dostu bir arayüzde birleştirilmiş ve "dijital asistan" kavramı modern mühendislik standartlarıyla yeniden tanımlanmıştır. Proje, web teknolojilerinin sadece bilgi sunan yapılar değil, hayatı doğrudan kolaylaştıran interaktif çözüm ekosistemleri olduğu bilinciyle tasarlanmıştır.
